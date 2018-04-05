@@ -4,8 +4,7 @@ var katzDeliLine = [];
 
 function takeANumber(katzDeliLine,name)
 {
- // var spot = []
- //var i = 0
+
   
   katzDeliLine.push(name)
   return "Welcome, " + name + ". " + "You are number " + katzDeliLine.length + " in line."
