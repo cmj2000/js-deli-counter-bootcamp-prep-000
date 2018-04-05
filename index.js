@@ -61,7 +61,7 @@ function takeANumber(katzDeliLine,name)
   
   
 
-////////////////////////////////////got right////////////////
+
 
 function nowServing(katzDeliLine)
 {
@@ -81,9 +81,9 @@ function nowServing(katzDeliLine)
     
   }
  
-  /////////////////////////////////////////////////////////////
   
-  ////////////////////////////////////////got right///////////
+  
+  
   function currentLine(katzDeliLine)
   {
      
@@ -115,5 +115,5 @@ function nowServing(katzDeliLine)
   
   }
   
-  //////////////////////////////////////////////////////////////
+ 
   
