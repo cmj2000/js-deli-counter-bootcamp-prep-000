@@ -12,16 +12,6 @@ function takeANumber(katzDeliLine,name)
     
 }
   
-    
-    
-    
-  
-  
-  
-  
-
-
-
 function nowServing(katzDeliLine)
 {
    var spot = []
@@ -40,9 +30,6 @@ function nowServing(katzDeliLine)
     
   }
  
-  
-  
-  
   function currentLine(katzDeliLine)
   {
      
