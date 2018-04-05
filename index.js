@@ -2,7 +2,7 @@ var katzDeliLine = [];
 
 
 
-function takeANumber(katzDeliLine)
+function takeANumber(katzDeliLine,name)
 {
   var spot = []
   var i = 0
