@@ -7,6 +7,10 @@ function takeANumber(katzDeliLine)
   var spot = []
   var i = 0
   
+  
+  
+  
+  /*
   while(i < katzDeliLine.length)
      {
      
@@ -44,6 +48,7 @@ function takeANumber(katzDeliLine)
    }
   
    }
+   */
     
 }
   
