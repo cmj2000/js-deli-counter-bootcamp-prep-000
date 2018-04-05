@@ -31,22 +31,14 @@ function nowServing(katzDeliLine)
  
   function currentLine(katzDeliLine)
   {
-     
-    
-   
       var spot = []
       var i = 0;
     while(i < katzDeliLine.length)
      {
-     
-    
       spot.push(" "+[i+1]+ ". "+ katzDeliLine[i]   )
       //return "The line is currently:" +" " + i + ". " + spot + ", "
       
-      
         i++
-     
-       
      }
      
      if(katzDeliLine.length === 0) 
